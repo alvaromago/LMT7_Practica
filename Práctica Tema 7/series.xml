@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie>
+        <nom_es>Caillou</nom_es>
+        <nom_vo>Caillou</nom_vo>
+        <temporadas>
+            <temporada eps="40">1</temporada>
+            <temporada eps="40">2</temporada>
+            <temporada eps="40">3</temporada>
+            <temporada eps="20">4</temporada>
+            <temporada eps="40">5</temporada>
+            <temporada eps="40">6</temporada>
+        </temporadas>
+        <plataforma>La 2</plataforma>
+        <director>Jean Pilotte</director>
+        <actores>
+            <actor>Caillou</actor>
+            <actor>Rosie</actor>
+            <actor>Boris</actor>
+            <actor>Doris</actor>
+        </actores>
+        <clasificacion>TP</clasificacion>
+    </serie>
+    <serie>
+        <nom_es>Pocoyó</nom_es>
+        <nom_vo>Pocoyo</nom_vo>
+        <temporadas>
+            <temporada eps="52">1</temporada>
+            <temporada eps="52">2</temporada>
+            <temporada eps="52">3</temporada>
+            <temporada eps="41">4</temporada>
+        </temporadas>
+        <plataforma>La 1</plataforma>
+        <director>Alfonso Rodríguez</director>
+        <actores>
+            <actor>Pocoyó</actor>
+            <actor>Pato</actor>
+            <actor>Elly</actor>
+            <actor>Nina</actor>
+            <actor>El Narrador</actor>
+        </actores>
+        <clasificacion>TP</clasificacion>
+    </serie>
+    <serie>
+        <nom_es>Phineas y Ferb</nom_es>
+        <nom_vo>Phineas and Ferb</nom_vo>
+        <temporadas>
+            <temporada eps="26">1</temporada>
+            <temporada eps="39">2</temporada>
+            <temporada eps="35">3</temporada>
+            <temporada eps="35">4</temporada>
+        </temporadas>
+        <plataforma>Disney Channel</plataforma>
+        <director>Dan Povenmire</director>
+        <actores>
+            <actor>Phineas Flynn</actor>
+            <actor>Ferb Fletcher</actor>
+            <actor>Candace Flynn</actor>
+            <actor>Perry el Ornitorrinco</actor>
+            <actor>Dr. Heinz Doofenshmirtz</actor>
+        </actores>
+        <clasificacion>10</clasificacion>
+    </serie>
+    <serie>
+        <nom_es>Hora de aventura</nom_es>
+        <nom_vo>Adventure Time</nom_vo>
+        <temporadas>
+            <temporada eps="26">1</temporada>
+            <temporada eps="26">2</temporada>
+            <temporada eps="26">3</temporada>
+            <temporada eps="26">4</temporada>
+            <temporada eps="52">5</temporada>
+            <temporada eps="43">6</temporada>
+            <temporada eps="26">7</temporada>
+            <temporada eps="27">8</temporada>
+            <temporada eps="14">9</temporada>
+            <temporada eps="13">10</temporada>
+        </temporadas>
+        <plataforma>Cartoon Network</plataforma>
+        <director>Larry Leichliter</director>
+        <actores>
+            <actor>Finn</actor>
+            <actor>Jake</actor>
+            <actor>Princesa Bubblegum</actor>
+            <actor>Marceline Abadeer</actor>
+        </actores>
+        <clasificacion>12</clasificacion>
+    </serie>
+    <serie>
+        <nom_es>Código Lyoko</nom_es>
+        <nom_vo>Code Lyoko</nom_vo>
+        <temporadas>
+            <temporada eps="26">1</temporada>
+            <temporada eps="26">2</temporada>
+            <temporada eps="13">3</temporada>
+            <temporada eps="30">4</temporada>
+        </temporadas>
+        <plataforma>Boing</plataforma>
+        <director>Jérôme Mouscadet</director>
+        <actores>
+            <actor>Ulrich Stern</actor>
+            <actor>Odd Della Robbia</actor>
+            <actor>Yumi Ishiyama</actor>
+            <actor>Aelita</actor>
+        </actores>
+        <clasificacion>7</clasificacion>
+    </serie>
+</series>
